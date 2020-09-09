@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "name": "SpookyPlanet",
+      "url": "spookyplanet.nl",
+      "port": 11441,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "GabberPool",
+      "url": "gabberpool.nl",
+      "port": 11441,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "def",
+      "url": "99.248.224.55",
+      "port": 11441,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
