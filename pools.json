@@ -1,0 +1,16 @@
+{
+  pools: [
+     {
+      "name": "Gabberpool",
+      "url": "http://gabberpool.nl/IND/",
+      "port": 80,
+      "ssl": false
+     },
+     {
+      "name": "Spookyplanet",
+      "url": "https://spookyplanet.nl/pool/ind",
+      "port": 80,
+      "ssl": true
+     }
+  ]
+}
